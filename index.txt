@@ -1,0 +1,1 @@
+index.txt是一个文本文档,现在是使用vi编辑器打开编辑的,vi编辑器类似于windows的notepad.
